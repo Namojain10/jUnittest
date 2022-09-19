@@ -10,4 +10,5 @@ public class NewSort {
             System.out.println(ch + " is consonant");
 
     }
+    
 }
